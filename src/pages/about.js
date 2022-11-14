@@ -1,0 +1,7 @@
+import * as React from 'react';
+
+const About = () => {
+  return <p>About page</p>;
+};
+
+export default React.memo(About);
